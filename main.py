@@ -10,6 +10,7 @@ def main():
     print('Я cnрадаю')
     print('authors branch')
     my_superfunction()
+    print(1)
 
 
 if __name__ == '__main__':
